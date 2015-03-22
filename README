@@ -1,0 +1,40 @@
+RedKite CMS
+===========
+Welcome to RedKite CMS a Content Management System built on top of the Symfony2 componens, Jquery, Knockout and
+Twitter Bootstrap frameworks.
+
+### Composer set up
+If you prefer to use composer, just follow these steps:
+
+Download composer:
+
+    curl -s http://getcomposer.org/installer | php
+
+then run this command to start a new RedKite CMS application from the stable release:
+
+    php composer.phar create-project redkite-labs/redkite-cms RedKiteCms
+
+If you prefer to get the latest developing release you run this command:
+
+    php composer.phar create-project redkite-labs/redkite-cms -s dev RedKiteCms
+
+When the application has been downloaded, follow these [instructions]https://github.com/redkite-labs/RedKiteCms/docs/install-redkite-cms.md)
+to install the application.
+
+## Documentation
+We are working on the documentation and it will be available as soon as possible.
+
+## Support
+If you require support you can ask for help at [RedKite CMS users forum](https://groups.google.com/forum/#!forum/redkitecms-users).
+
+If you want to collaborate, just introduce yourself at [RedKite CMS developers forum](https://groups.google.com/forum/#!forum/redkitecms-dev).
+
+
+## Stay in touch
+RedKite CMS is present on major social networks:
+
+Follow [@redkite-cms on Twitter](https://twitter.com/redkitecms) for the latest news
+
+Like RedKite CMS at [Facebook](https://www.facebook.com/redkitecms)
+
+Connect with RedKite CMS at [Google+](https://plus.google.com/103994964006724386514)
